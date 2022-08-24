@@ -1,4 +1,4 @@
-module github.com/JayTechX/caddy2-proxyprotocol
+module github.com/JayTechX/caddy2-proxyprotocol-a
 
 go 1.15
 
